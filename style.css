@@ -221,6 +221,46 @@
     padding: 30px;
 }
 
+.contain7{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background: linear-gradient(135deg, #6f42c1 0%, #4582EC 100%);
+    padding: 24px;
+    color: white;
+}
+
+.txtc62 a{
+    color: white;
+}
+
+.contain8{
+    background: #343a40;
+    padding: 72px;
+}
+
+.logoc6{
+    padding-bottom: 40px;
+}
+
+.txtftr1{
+    color: white;
+}
+
+.txtftr{
+    color: white;
+    padding-bottom: 50px;
+}
+
+.ftrtable{
+    color: white;
+    text-decoration: none;
+}
+
+.ftrtable a{
+    text-decoration: none;
+    color: white;
+}
 
 
 /* @media (min-width: 768px)
